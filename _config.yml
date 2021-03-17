@@ -1,10 +1,11 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: Learning Pages Blog
+author: theChad
+email: theChad@users.noreply.github.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Does it also ignore tabs here? So I'll put in a newline here:
+  and does it tab in the description? Also, just for indexing fun,
+  I'll write 3/17/21 14:53 bh780utihbchxfhgh
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
