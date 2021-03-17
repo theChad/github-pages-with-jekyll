@@ -1,5 +1,5 @@
 ---
-title: This is the first post
+title: "This is the first post"
 date: 2021-03-17
 ---
 
